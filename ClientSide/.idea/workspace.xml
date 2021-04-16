@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2debbe4c-6cd7-43fa-b16d-15377d2ec1a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1r9oQVq7CGNukAtRWznSM8XUHoW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\AaProject\SignalR\SignalRChatAppServerExample\ClientSide\js" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\AaProject\SignalR\SignalRChatAppServerExample\ClientSide" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2debbe4c-6cd7-43fa-b16d-15377d2ec1a2" name="Default Changelist" comment="" />
+      <created>1618397650871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618397650871</updated>
+      <workItem from="1618397652218" duration="440000" />
+      <workItem from="1618423121961" duration="2279000" />
+      <workItem from="1618425432575" duration="9059000" />
+      <workItem from="1618517186328" duration="6910000" />
+      <workItem from="1618529624093" duration="1560000" />
+      <workItem from="1618604134103" duration="7449000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="279" y="77" key="SettingsEditor" timestamp="1618425420906">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="279" y="77" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1618425420906" />
+    <state x="426" y="197" key="run.anything.popup" timestamp="1618604520240">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="426" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1618604520240" />
+    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup" timestamp="1618606637273">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="182" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1618606637273" />
+  </component>
+</project>
